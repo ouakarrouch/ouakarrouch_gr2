@@ -1,1 +1,0 @@
-f0.txt	f0.txt,  f2.txt  fichier1.txt
